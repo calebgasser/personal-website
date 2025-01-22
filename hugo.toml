@@ -56,7 +56,7 @@ theme = "Niello"
 [params]
 [params.google]
 	google_ad_client = "ca-pub-******"  # Optional, replace ca-pub-****** with your content
-	ga4 = "G-******" # Optional, replace G-****** with your Google Analytics GA4
+	ga4 = "G-XZPW3TNFB7" # Optional, replace G-****** with your Google Analytics GA4
 [params.bannershowcase]
 	categories = ["AI"]
 	limit = 2
