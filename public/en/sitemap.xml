@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.angularcorp.com/en/</loc>
+    <loc>calebgasser.github.io/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://www.angularcorp.com/zh/"
+                href="calebgasser.github.io/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://www.angularcorp.com/en/"
+                href="calebgasser.github.io/en/"
                 />
   </url><url>
-    <loc>https://www.angularcorp.com/en/categories/</loc>
+    <loc>calebgasser.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://www.angularcorp.com/zh/categories/"
+                href="calebgasser.github.io/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://www.angularcorp.com/en/categories/"
+                href="calebgasser.github.io/en/categories/"
                 />
   </url><url>
-    <loc>https://www.angularcorp.com/en/tags/</loc>
+    <loc>calebgasser.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://www.angularcorp.com/zh/tags/"
+                href="calebgasser.github.io/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://www.angularcorp.com/en/tags/"
+                href="calebgasser.github.io/en/tags/"
                 />
   </url>
 </urlset>
